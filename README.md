@@ -16,6 +16,8 @@ Sample: monthly, January 2005 – December 2025 (252 months). Dependent variable
 | `gap-statement.md` | The corrected gap statement, with the India studies you must cite |
 | `data-sources.md` | Where each data series comes from, with verified links |
 | `methodology-key.md` | Which paper supports which method, question by question |
+| `research-questions-simple.md` | The six research questions in Simplified Technical English (ASD-STE100) |
+| `new-literature.md` | New papers to add beyond the indexed folder, with the gap check (Oct 2026) |
 | `tools/` | The scripts used to find, verify and index the papers |
 
 **112 papers** are indexed in this folder.
